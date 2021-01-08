@@ -1,0 +1,10 @@
+name: dmsweb
+title:
+username:
+account: ctai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3455522
+bundleId: 4074128
+url: https://ctai.shinyapps.io/dmsweb/
+when: 1610147023.39991
