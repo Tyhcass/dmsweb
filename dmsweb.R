@@ -9,8 +9,6 @@ library(magrittr)
 library(DCPOtools)
 library(rstan)
 
-
-load("dcpo_input.rda")
    
 demosup <- read.csv("theta_results.csv", as.is = TRUE) %>% 
   group_by(country)
